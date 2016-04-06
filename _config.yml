@@ -1,0 +1,28 @@
+name: Trainings
+favicon: null
+layout_spectrum: 0.8537041572853923
+typography_spectrum: 0.3780602382030338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5080641794484109
+  lightness: 0.36524013918824494
+  saturation: 0.3155632964335382
+  rhythmicContrast: 0.4986875697504729
+purpose: []
